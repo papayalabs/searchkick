@@ -1,5 +1,3 @@
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in searchkick.gemspec
-gemspec
 
